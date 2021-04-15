@@ -1,12 +1,10 @@
 # cognitive
 Cognitive Accessibility for digital health: preliminary study
-
-Cognitive Accessibility for digital health: preliminary study
  
 Version 1.0 March 2021
 
 Principal Researcher Lucy Wills
-Contributions from Tim Bailey
+Contributions from Tim Bailey and Ruth Ivimey-Cook
  
 Are Cognitive impairments a significant barrier or hindrance to those using digital healthcare? Is cognitive accessibility well enough understood yet, or are people still being left out?
 
