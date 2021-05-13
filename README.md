@@ -1,7 +1,7 @@
 # cognitive
 Cognitive Accessibility for digital health: preliminary study
  
-Version 1.0 March 2021
+Version 1.0 May 2021
 
 Principal Researcher Lucy Wills
 Contributions from Tim Bailey and Ruth Ivimey-Cook
